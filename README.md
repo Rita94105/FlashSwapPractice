@@ -17,8 +17,8 @@ If you are interested in the flash swap arbitrage, you can read more in this [re
 Clone this repository, install Node.js dependencies, and build the source code:
 
 ```bash
-git clone git@github.com:AppWorks-School/Blockchain-Resource.git
-cd Blockchain-Resource/section3/FlashSwapPractice
+git clone https://github.com/Rita94105/FlashSwapPractice.git
+cd FlashSwapPractice
 npm install
 forge install
 forge build
